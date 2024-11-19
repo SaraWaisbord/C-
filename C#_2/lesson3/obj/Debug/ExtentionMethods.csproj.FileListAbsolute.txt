@@ -1,0 +1,7 @@
+H:\C# מתקדם\C#_2\lesson3\bin\Debug\lesson3.exe.config
+H:\C# מתקדם\C#_2\lesson3\bin\Debug\lesson3.exe
+H:\C# מתקדם\C#_2\lesson3\bin\Debug\lesson3.pdb
+H:\C# מתקדם\C#_2\lesson3\obj\Debug\ExtentionMethods.csproj.AssemblyReference.cache
+H:\C# מתקדם\C#_2\lesson3\obj\Debug\ExtentionMethods.csproj.CoreCompileInputs.cache
+H:\C# מתקדם\C#_2\lesson3\obj\Debug\lesson3.exe
+H:\C# מתקדם\C#_2\lesson3\obj\Debug\lesson3.pdb

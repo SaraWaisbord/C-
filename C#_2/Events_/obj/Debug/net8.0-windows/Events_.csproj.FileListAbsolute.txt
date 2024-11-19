@@ -1,0 +1,16 @@
+H:\C# מתקדם\C#_2\Events_\bin\Debug\net8.0-windows\Events_.exe
+H:\C# מתקדם\C#_2\Events_\bin\Debug\net8.0-windows\Events_.deps.json
+H:\C# מתקדם\C#_2\Events_\bin\Debug\net8.0-windows\Events_.runtimeconfig.json
+H:\C# מתקדם\C#_2\Events_\bin\Debug\net8.0-windows\Events_.dll
+H:\C# מתקדם\C#_2\Events_\bin\Debug\net8.0-windows\Events_.pdb
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\Events_.Form1.resources
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\Events_.csproj.GenerateResource.cache
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\Events_.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\Events_.AssemblyInfoInputs.cache
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\Events_.AssemblyInfo.cs
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\Events_.csproj.CoreCompileInputs.cache
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\Events_.dll
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\refint\Events_.dll
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\Events_.pdb
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\Events_.genruntimeconfig.cache
+H:\C# מתקדם\C#_2\Events_\obj\Debug\net8.0-windows\ref\Events_.dll

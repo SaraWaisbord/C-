@@ -1,0 +1,5 @@
+H:\C# מתקדם\C#_2\Events!\obj\Debug\Events!.csproj.AssemblyReference.cache
+H:\C# מתקדם\C#_2\Events!\obj\Debug\Events_.Form1.resources
+H:\C# מתקדם\C#_2\Events!\obj\Debug\Events_.Properties.Resources.resources
+H:\C# מתקדם\C#_2\Events!\obj\Debug\Events!.csproj.GenerateResource.cache
+H:\C# מתקדם\C#_2\Events!\obj\Debug\Events!.csproj.CoreCompileInputs.cache

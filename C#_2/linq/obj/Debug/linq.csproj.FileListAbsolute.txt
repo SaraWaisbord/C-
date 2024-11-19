@@ -1,0 +1,7 @@
+H:\C# מתקדם\C#_2\linq\bin\Debug\linq.exe.config
+H:\C# מתקדם\C#_2\linq\bin\Debug\linq.exe
+H:\C# מתקדם\C#_2\linq\bin\Debug\linq.pdb
+H:\C# מתקדם\C#_2\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+H:\C# מתקדם\C#_2\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+H:\C# מתקדם\C#_2\linq\obj\Debug\linq.exe
+H:\C# מתקדם\C#_2\linq\obj\Debug\linq.pdb
